@@ -1,0 +1,4 @@
+1,Efectivo
+2,Tarjeta de Credito
+3,Transferencia Bancaria
+4,Financiamiento
